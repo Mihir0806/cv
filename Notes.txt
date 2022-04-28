@@ -1,0 +1,11 @@
+Form :
+
+  <form>
+    <label> Text : </label>
+    <input type = 'text'>
+    <label> Password : </label>
+    <input type = 'password'>
+  </form>
+
+  First we provide a label for each field, then we provide the type of input which we'll be using for the particular form attribute.
+  
